@@ -7,23 +7,23 @@ I'm looking to leverage my design background to become an extra- ordinary develo
 
 ---
 
-🔭 Just started working on **my first rails/react app**
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="right"/>
 
-🌱 Currently learning **Rails and React Native**
+🔭  Just started working on **my first rails/react app**
 
-👨‍💻 See some of my work @ [alecstrobel.tech](alecstrobel.tech)
+🌱  Currently learning **Rails and React Native**
 
-📄 Check out my CV 👉 [alecstrobel.tech/cv](alecstrobel.tech/cv)
+👨‍💻  See some of my work @ [alecstrobel.tech](alecstrobel.tech)
 
-📫 Reach me @ **contact@alecstrobel.tech**
+📄  Check out my CV 👉 [alecstrobel.tech/cv](alecstrobel.tech/cv)
 
-💬 Ask me about **anything tech and products**
+📫  Reach me @ **contact@alecstrobel.tech**
 
-⚡ Fun fact: **I laugh at my own jokes, haha.**
+💬  Ask me about **anything tech and products**
+
+⚡  Fun fact: **I laugh at my own jokes, haha.**
 
 <br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">Connect with me on</h3>
 <div>
