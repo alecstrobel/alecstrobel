@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm </h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Alec;a+programmer;a+designer;just+a+passionate+tech+guy+looking+to+do+big+things)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Alec</h1>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=a+programmer;a+designer;just+a+passionate+tech+guy+looking+to+do+big+things" alt="Typing SVG" /></a>
 
 I'm a software engineer with a background in design, who's helplessly in love with tech products. I've recently committed to a full-time intensive tech bootcamp to up-skill into software development.
 
@@ -23,8 +24,6 @@ I'm looking to leverage my design background to become an extra- ordinary develo
 <br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<br>
 
 <h3 align="left">Connect with me on</h3>
 <div>
