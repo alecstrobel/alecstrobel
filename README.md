@@ -25,6 +25,24 @@ I'm looking to leverage my design background to become an extra- ordinary develo
 
 <br>
 
+```ruby
+class JuniorDev < ApplicationRecord
+  has_many :projects
+  has_many :talents
+  has_many :laughs, through: :jokes
+
+  def interested?
+    interested = true if new_project == "cool and impactful"
+  end
+
+  def get_in_touch
+    return "Feel free to hit me up, happy to chat and meet like minds!"
+  end
+
+end
+```
+<br>
+
 <h3 align="left">Connect with me on</h3>
 <div>
 <a href="https://dev.to/alecstrobel" target="blank" style="padding-right:10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alecstrobel" height="30" width="40" /></a> &nbsp;&nbsp;
