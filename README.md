@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Alec;a+programmer;a+designer;just+a+passionate+tech+guy+looking+to+do+big+things)](https://git.io/typing-svg)</h1>
+<h1 align="center">Hi 👋, I'm </h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Alec;a+programmer;a+designer;just+a+passionate+tech+guy+looking+to+do+big+things)](https://git.io/typing-svg)
 
 I'm a software engineer with a background in design, who's helplessly in love with tech products. I've recently committed to a full-time intensive tech bootcamp to up-skill into software development.
 
