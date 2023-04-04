@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm alec</h1>
-<h3 align="center">A passionate tech guy looking to do big things</h3>
+<h1 align="center">Hi 👋, [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Alec;a+programmer;a+designer;just+a+passionate+tech+guy+looking+to+do+big+things)](https://git.io/typing-svg)</h1>
 
 I'm a software engineer with a background in design, who's helplessly in love with tech products. I've recently committed to a full-time intensive tech bootcamp to up-skill into software development.
 
@@ -20,6 +19,12 @@ I'm looking to leverage my design background to become an extra- ordinary develo
 💬 Ask me about **anything tech and products**
 
 ⚡ Fun fact: **I laugh at my own jokes, haha.**
+
+<br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<br>
 
 <h3 align="left">Connect with me on</h3>
 <div>
@@ -43,4 +48,4 @@ I'm looking to leverage my design background to become an extra- ordinary develo
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alecstrobel&show_icons=true&locale=en&layout=compact" alt="alecstrobel" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alecstrobel&show_icons=true&locale=en" alt="alecstrobel" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alecstrobel&show_icons=true&locale=en" alt="alecstrobel" /> </p>
