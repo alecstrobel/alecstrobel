@@ -41,7 +41,6 @@ class JuniorDev < ApplicationRecord
 
 end
 ```
-<br>
 
 <h3 align="left">Connect with me on</h3>
 <div>
