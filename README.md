@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alec</h1>
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=a+programmer;a+designer;just+a+passionate+tech+guy+looking+to+do+big+things" alt="Typing SVG" /></a>
 
-I'm a software developer with a background in design, who's helplessly in love with tech products. I've recently committed to a full-time intensive tech bootcamp to up-skill into software development.
+I'm a software developer with a background in design, who's in love with tech products. I've recently committed to a full-time intensive tech bootcamp to up-skill into software development and it's changed my life.
 
 I'm looking to leverage my design background to become an extra- ordinary developer and learn everything there is to making beautiful and impactful products.
 
