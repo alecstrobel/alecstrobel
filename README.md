@@ -13,9 +13,9 @@ I'm looking to leverage my design background to become an extra- ordinary develo
 
 🌱  Currently learning **Rails and React Native**
 
-👨‍💻  See some of my work @ [alecstrobel.tech](alecstrobel.tech)
+👨‍💻  See some of my work @ [alecstrobel.tech](https://alecstrobel.tech)
 
-📄  Check out my CV 👉 [alecstrobel.tech/cv](alecstrobel.tech/cv)
+📄  Check out my CV 👉 [alecstrobel.tech/cv](https://alecstrobel.tech/cv)
 
 📫  Reach me @ **contact@alecstrobel.tech**
 
