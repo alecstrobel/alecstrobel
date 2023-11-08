@@ -31,7 +31,7 @@ class JuniorDev < ApplicationRecord
   has_many :talents
   has_many :laughs, through: :jokes
   
-  def interested!
+  def interest(new_project)
     interested = true if new_project == "challenging"
     return "Challenge accepted!" if interested
   end
