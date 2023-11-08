@@ -33,11 +33,11 @@ class JuniorDev < ApplicationRecord
   
   def interested?(new_project)
     interested = true if new_project == "challenging"
-    return "Challenge accepted!" if interested
+    "Challenge accepted!" if interested
   end
 
   def get_in_touch
-    return "Feel free to hit me up, happy to chat and meet like minds!"
+    "Feel free to hit me up, happy to chat and meet like minds!"
   end
 
 end
