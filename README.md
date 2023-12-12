@@ -32,7 +32,7 @@ class JuniorDev < ApplicationRecord
   has_many :laughs, through: :jokes
   
   def interested?(new_project)
-    interested = true if new_project.type.status == "challenging"
+    interested = true if new_project.details['status'] == "challenging"
     "Challenge accepted!" if interested
   end
 
