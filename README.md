@@ -9,9 +9,6 @@ I’m a Software Engineer with a passion for both design and development.
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="right"/>
 
-
-<br>
-
 ```ruby
 class JuniorDev < ApplicationRecord
   has_many :projects
@@ -32,6 +29,3 @@ end
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alecstrobel&show_icons=true&locale=en&layout=compact" alt="alecstrobel" /> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alecstrobel&show_icons=true&locale=en" alt="alecstrobel" /> </p>
