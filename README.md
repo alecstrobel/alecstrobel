@@ -7,8 +7,27 @@ Red Octo is an independent software product company building practical, scalable
 
 ---
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="left"/>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="right"/>
 
+```python
+report = diagnostics.run("red_octo")
+
+print(report)
+
+# RED OCTO | SYSTEM DIAGNOSTICS
+# ───────────────────────────────────────────
+# Problem solving         [██████████] 100%
+# Product thinking        [██████████] 100%
+# Creative solutions      [█████████░]  90%
+# Caffeine levels         [██████████]  CRITICAL
+# Unnecessary meetings    [█░░░░░░░░░]  10%
+# Tolerance for red tape  [██░░░░░░░░]  20%
+#
+# [OK]       Problems identified.
+# [OK]       Solutions engineered.
+# [OK]       Software shipped.
+# [WARNING]  New inefficiency detected.
+```
 
 <br>
 
