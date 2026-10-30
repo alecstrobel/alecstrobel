@@ -7,7 +7,7 @@ Red Octo is an independent software product company building practical, scalable
 
 ---
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="right"/>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="left"/>
 
 
 <br>
